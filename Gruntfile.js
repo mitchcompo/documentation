@@ -3,6 +3,7 @@ module.exports = function(grunt) {
     a11y: {
       dev: {
         options: {
+          failOnError: 'true',
           urls: [
             'output_*/docs/about/*.html',
             'output_*/docs/articles/**/*.html',
