@@ -93,6 +93,7 @@ We don't specifically recommend one, but here are a few of many SSL providers:
 - [Thawte](http://www.thawte.com/ "Thawte")
 - [TrustWave](https://ssl.trustwave.com/support/install-certificate-cpanel.php "TrustWave")
 - [VeriSign](http://www.verisigninc.com/ "VeriSign")
+- [SSL.com](https://www.ssl.com/ "SSL.com")
 
 ## Load Certificate into Pantheon
 
